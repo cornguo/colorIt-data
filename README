@@ -3,7 +3,7 @@ Term Frequency Data of DPP and KMT
 Data collected at 2012.03, text extracted from offical sites of DPP and KMT.
 
 All text has been trimmed and tagged by POS tagger in uni-term frequency table,
-and in bi-terms frequency the dollar sign ($) indicates the end of the sentence.
+and in bi-terms frequency the dollar sign ($) indicates start or end of a sentence.
 
 * DPP
  * freq.dpp.uni.csv: uni-term frequency with POS tag
