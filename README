@@ -1,0 +1,13 @@
+Term Frequency Data of DPP and KMT
+
+Data collected at 2012.03, text extracted from offical sites of DPP and KMT.
+
+All text has been trimmed and tagged by POS tagger in uni-term frequency table,
+and in bi-terms frequency the dollar sign ($) indicates the end of the sentence.
+
+* DPP
+ * freq.dpp.uni.csv: uni-term frequency with POS tag
+ * freq.dpp.bi.csv: bi-terms frequency
+* KMT
+ * freq.kmt.uni.csv: uni-term frequency with POS tag
+ * freq.kmt.bi.csv: bi-terms frequency
