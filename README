@@ -14,5 +14,5 @@ and in bi-terms frequency table the dollar sign ($) indicates start or end of a 
  * freq.kmt.uni.csv: uni-term frequency with POS tag
  * freq.kmt.bi.csv: bi-terms frequency
 
-Remainder: You can use my textTools for manipulating tagged text,
-           see https://github.com/cornguo/textTools
+Reminder: You can use my textTools for manipulating tagged text,
+          see https://github.com/cornguo/textTools
